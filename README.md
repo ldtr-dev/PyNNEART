@@ -1,4 +1,4 @@
-# Proyecto de investigación del Semillero de Neuroinformática e Inteligencia Artificial - Universidad Tecnológica de Pereira
+# Proyecto de investigación del [Semillero de Neuroinformática e Inteligencia Artificial](https://academia.utp.edu.co/sneia) - Universidad Tecnológica de Pereira
 
 Este repositorio es una herramienta para avanzar en el proyecto de investigación del Semillero de Neuroinformática e Inteligencia Artificial de la Universidad Tecnológica de Pereira. Se divide en dos secciones principales: 
 
