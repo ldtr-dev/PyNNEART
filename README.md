@@ -1,2 +1,24 @@
-# eeg-project-personal
-Este repositorio tiene la intención de servir como un lugar para poder realizar las diferentes prácticas que se pueden llevar a cabo para el progreso del proyecto
+# Proyecto de investigación del Semillero de Neuroinformática e Inteligencia Artificial - Universidad Tecnológica de Pereira
+
+Este repositorio es una herramienta para avanzar en el proyecto de investigación del Semillero de Neuroinformática e Inteligencia Artificial de la Universidad Tecnológica de Pereira. Se divide en dos secciones principales: 
+
+- **EEGLAB**: En esta sección se realizarán pruebas e investigaciones sobre EEGLAB. 
+
+- **MNE**: Esta sección se utilizará para discutir e investigar MNE. 
+
+## EEGLAB
+
+EEGLAB es una herramienta de código abierto para el procesamiento y análisis de señales EEG. 
+
+
+## MNE
+
+MNE es una biblioteca de Python para el procesamiento y análisis de señales EEG y MEG.
+
+## Contribuciones
+
+Si deseas contribuir a este proyecto, por favor envía un pull request. 
+
+## Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
