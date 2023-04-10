@@ -1,3 +1,7 @@
+..
+    
+    ⚠️ **Warning**: This project is under development.
+
 Python Neural Network EEG Artifact Removal Tool
 ===============================================
 
