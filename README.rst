@@ -6,7 +6,7 @@ Python Neural Network EEG Artifact Removal Tool
 ===============================================
 
 
-.. image:: https://academia.utp.edu.co/sneia/files/2022/08/cropped-cropped-logo_icono_fondonegro.png
+.. image:: https://i.imgur.com/qb42C9F.png
     :width: 100%
 
 This repository is a tool to advance the research project of the `Neuroinformatics and Artificial Intelligence Research Group <https://academia.utp.edu.co/sneia>`_. It is divided into two main sections:
