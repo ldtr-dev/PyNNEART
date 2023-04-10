@@ -1,24 +1,24 @@
-# Proyecto de investigación del [Semillero de Neuroinformática e Inteligencia Artificial](https://academia.utp.edu.co/sneia) - Universidad Tecnológica de Pereira
+# Python Neural Network EEG Artifact Removal Tool
 
-Este repositorio es una herramienta para avanzar en el proyecto de investigación del Semillero de Neuroinformática e Inteligencia Artificial de la Universidad Tecnológica de Pereira. Se divide en dos secciones principales: 
+This repository is a tool to advance the research project of the [Neuroinformatics and Artificial Intelligence Research Group](https://academia.utp.edu.co/sneia). It is divided into two main sections:
 
-- **EEGLAB**: En esta sección se realizarán pruebas e investigaciones sobre EEGLAB. 
+- **EEGLAB**: In this section, tests and investigations will be carried out on EEGLAB.
 
-- **MNE**: Esta sección se utilizará para discutir e investigar MNE. 
+- **MNE**: This section will be used to discuss and investigate MNE.
 
-## [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
+## [EEGLAB] (https://sccn.ucsd.edu/eeglab/index.php)
 
-EEGLAB es una herramienta de código abierto para el procesamiento y análisis de señales EEG. 
+EEGLAB is an open-source tool for EEG signal processing and analysis.
 
 
-## [MNE](https://mne.tools/stable/index.html)
+## [MNE] (https://mne.tools/stable/index.html)
 
-MNE es una biblioteca de Python para el procesamiento y análisis de señales EEG y MEG.
+MNE is a Python library for EEG and MEG signal processing and analysis.
 
-## Contribuciones
+## Contributions
 
-Si deseas contribuir a este proyecto, por favor envía un pull request. 
+If you want to contribute to this project, please send a pull request.
 
-## Licencia
+## License
 
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
+This project is under the MIT license. See the LICENSE file for more details.
