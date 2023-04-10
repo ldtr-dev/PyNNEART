@@ -6,12 +6,12 @@ Este repositorio es una herramienta para avanzar en el proyecto de investigació
 
 - **MNE**: Esta sección se utilizará para discutir e investigar MNE. 
 
-## EEGLAB
+## [EEGLAB](https://sccn.ucsd.edu/eeglab/index.php)
 
 EEGLAB es una herramienta de código abierto para el procesamiento y análisis de señales EEG. 
 
 
-## MNE
+## [MNE](https://mne.tools/stable/index.html)
 
 MNE es una biblioteca de Python para el procesamiento y análisis de señales EEG y MEG.
 
