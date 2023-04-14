@@ -11,16 +11,19 @@ def download_eeglab(
     eeglab_download_path, file_path
 ):
     save_temp_path = os.path.join(file_path, save_folder_name)
+    os.makedirs(save_temp_path, exist_ok=True)
+
     print("Downloading EEGLAB...")
     print("URL: (" + eeglab_download_path + eeglab_file_name + ")")
     r = requests.get(eeglab_download_path + eeglab_file_name)
     print("[OK]")
-    with open(save_temp_path + "/" + eeglab_file_name, "wb") as f:
+    with open(os.path.join(save_temp_path, eeglab_file_name), "wb") as f:
         print("Saving file...")
         print("PATH: (" + save_temp_path + ")")
         f.write(r.content)
         print("[OK]")
     print("EEGLAB downloaded successfully.")
+
 
 
 def unzip_eeglab(
